@@ -200,6 +200,8 @@ int main(int argc, char *argv[])
 
     free_matrix(&keymatrix);
 
+    printf("this is a change");
+
     return 0;
 }
 
